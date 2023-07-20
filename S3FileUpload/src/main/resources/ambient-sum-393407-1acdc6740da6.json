@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ambient-sum-393407",
+  "private_key_id": "1acdc6740da6724a84cb45a765049c4b0764c4ec",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCJ4FaaDdUy/n7J\njhH97YhjglUdRc2mscb9T0Y0Y2GrnpzETU7tiG4w36iYbaD/hnvGUYDQd/Z3jaGE\nwLfE3YErVnwfvR5dUEUnEnElgILC3FpnRh+V7O0KanXheFLrIsvyHi/b8xuRX568\n4N6AFmGYHbjUFMB/2/V4PUTm07V06sPqCKzrhsNXAMPUXtrfGL/zqaYWz4pBFMnK\n0JA+aRC6PdCLxMcurUz7fgTPyY04/9CmO6wWrt/PFWirLAlhiQQYQINZGZFzXNNv\ng8cf8waHjwRoz7rMHhPmouSNLTOFhFAR4WU/Nwx8B8ISvJfZZVXbZ0A5AjKJDQ6v\nogT/A8uFAgMBAAECggEAASET/H+EAT6p2as+9PoyzYPWAB8f+89FbrItREUTGfV6\n2bW7YYEmS+KtDhCJysX2cg2dVTfCTkDb84sjhip9QhZbfmQNYVzEsDj7sb+vcnqd\nB+8AV7lAyL7N99qFLVVT38gFAtNnJKXolinuUJS+WGFX7+66k+GAjWtNCunteMdn\nXwtpoXcrXvfwlLJlZeFlv03aVyvOCMEyW83FeOLO4SoK6wlELYdDpsWxtNC9QH0e\n9NlEdGcvvbvpLqUn/alwdpNNSFIJDWPBKApY3h+BFZhj9hc4vpbsIunVgHhsoGry\ngfvu7KouYnC061Cl+sT5rUSwuAipwbjlB0NMxwAngQKBgQC8MCeOWBT7pjZ1HYHI\nZCM1gJb2TktLIBz4/yZ2RLS3XhcYKlUP0q6LEvv2mpFecnohnzE/oRLsJDIpF4dM\ncPBnAuO97iA5HzBWeKltYqyRTs/vAkIZBcUD4vLUsriKix9O9vEYrzx8bCNCfPa2\ny/c0sa7bnwiBypOr8beHIu7PBQKBgQC7jw60CXbdrvkGRda1GxJVxS3NszkmLhfW\nCq2qiKd20xEZZrbMUtdxaAuLhUC8Ubs/MtAXe2JpRbPzmLp+TvH7J1wfnww+upIO\nLCZZCcRFt905Li/AoLV7Z72x/RHEW8Z0rYIMmuXpT+D9AteBOc68h9xojHBPnwr5\nBgQ6OoyygQKBgQCIEh2X7BKH/x/jQMmlttpKhkcho20HzhmE5SDPZVByQeNbAsjs\nnv676qcrIYo5C3dJtkyq4HHJM0bdtXiMCiGZqlo36+V6yBVwgOCpCi8TBjSNckmO\nxEA3VjMVHoEXFA84To/3tEV9Bcfc/HR7qjF99XgkrvI8vthV/HoiiVy5bQKBgAhy\nBaB3uKF8ynvM00EuaeHw0gIsKsucUbhynKVMJ/ZCxMdXB64loMvbeoGay3JvX7YV\nzKbyCFljKRoz61napiy/9fb6i2ubrQ30UPm7ZdoZ0F1NxhqvYdyfrDwCgDVOSJ5i\nXbPBmc6qqR/ba+bGupdkqrkOcdQz/iN+cNxKXKGBAoGAVwwrNOXrGJCwP1h8Yjqv\nsJEi7ssF0co+VwHYqix7ANE9wizllEHfUdsIp6UynpE0ZEYgB540m9B9l+fjGKT1\nMtl9t30icHr3jZfVlik9hRdcG86VAMAil8cQhff1scwFra2DuDXaoZ1qgvN0MjmV\n8SWR4NPn9SmmgkyjzyBXlGA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "colorpickadmin@ambient-sum-393407.iam.gserviceaccount.com",
+  "client_id": "108371976306560695978",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/colorpickadmin%40ambient-sum-393407.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
